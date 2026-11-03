@@ -1,0 +1,13 @@
+{
+  "symbol": [
+    "GEX_NDX_WALL",
+    "GEX_NDX_ODTE",
+    "GEX_NDX_RANK"
+  ],
+  "pricescale": 10,
+  "description": [
+    "NDX GEX walls/flip/spot",
+    "NDX GEX 0DTE walls/flip + expected move",
+    "NDX GEX ranked gamma strikes"
+  ]
+}
