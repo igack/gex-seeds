@@ -2,12 +2,28 @@
   "symbol": [
     "GEX_NDX_WALL",
     "GEX_NDX_ODTE",
-    "GEX_NDX_RANK"
+    "GEX_NDX_RANK",
+    "GEX_NDX_RANK2",
+    "GEX_NDX_QQQ_A",
+    "GEX_NDX_QQQ_B",
+    "GEX_SPX_WALL",
+    "GEX_SPX_ODTE",
+    "GEX_SPX_RANK",
+    "GEX_SPX_SPY_A",
+    "GEX_SPX_SPY_B"
   ],
   "pricescale": 10,
   "description": [
     "NDX GEX walls/flip/spot",
     "NDX GEX 0DTE walls/flip + expected move",
-    "NDX GEX ranked gamma strikes"
+    "NDX GEX ranked gamma strikes 1-4",
+    "NDX GEX ranked gamma strikes 5-8",
+    "NDX GEX QQQ gamma strikes 1-5 (index pts)",
+    "NDX GEX QQQ gamma strikes 6-10 (index pts)",
+    "SPX GEX walls/flip/spot",
+    "SPX GEX 0DTE walls/flip + expected move",
+    "SPX GEX ranked gamma strikes 1-4",
+    "SPX GEX SPY gamma strikes 1-5 (index pts)",
+    "SPX GEX SPY gamma strikes 6-10 (index pts)"
   ]
 }
